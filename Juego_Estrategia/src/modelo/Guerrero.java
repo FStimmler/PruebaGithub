@@ -5,7 +5,7 @@ public class Guerrero extends Personaje
 
 	public Guerrero(String nombre,  Posicion posicion)
 	{
-		super(nombre, 500, posicion);
+		super(nombre, 600, posicion);
 		
 	}
 
